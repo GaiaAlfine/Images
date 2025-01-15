@@ -1,0 +1,84 @@
+[
+    {
+        "id": "1",
+        "title": "Gaia Alfine",
+        "thumbnail": "https://github.com/GaiaAlfine/Images/blob/main/Art/thumbnail/GaiaHAlfine.png?raw=true",
+        "largeImage": "https://github.com/GaiaAlfine/Images/blob/main/Art/largeImage/GaiaHAlfine.png?raw=true",
+        "description": "This is a larger image of the Black Hole Art, showcasing the intricate details.",
+        "date": "2023-12-01",
+        "tags": ["cosmic", "nebula", "painting"]
+    },
+    {
+        "id": "2",
+        "title": "Nebula Painting",
+        "thumbnail": "https://github.com/GaiaAlfine/Images/blob/main/Art/thumbnail/GaiaHAlfine.png?raw=true",
+        "largeImage": "https://github.com/GaiaAlfine/Images/blob/main/Art/largeImage/GaiaHAlfine.png?raw=true",
+        "description": "This Nebula painting explores the beauty of cosmic formations.",
+        "date": "2023-12-01",
+        "tags": ["cosmic", "nebula", "painting"]
+    },
+    {
+        "id": "3",
+        "title": "Nebula Painting",
+        "thumbnail": "https://github.com/GaiaAlfine/Images/blob/main/Art/thumbnail/GaiaHAlfine.png?raw=true",
+        "largeImage": "https://github.com/GaiaAlfine/Images/blob/main/Art/largeImage/GaiaHAlfine.png?raw=true",
+        "description": "This Nebula painting explores the beauty of cosmic formations.",
+        "date": "2023-12-01",
+        "tags": ["cosmic", "nebula", "painting"]
+    },
+    {
+        "id": "4",
+        "title": "Nebula Painting",
+        "thumbnail": "https://github.com/GaiaAlfine/Images/blob/main/Art/thumbnail/GaiaHAlfine.png?raw=true",
+        "largeImage": "https://github.com/GaiaAlfine/Images/blob/main/Art/largeImage/GaiaHAlfine.png?raw=true",
+        "description": "This Nebula painting explores the beauty of cosmic formations.",
+        "date": "2023-12-01",
+        "tags": ["cosmic", "nebula", "painting"]
+    },
+    {
+        "id": "5",
+        "title": "Nebula Painting",
+        "thumbnail": "https://github.com/GaiaAlfine/Images/blob/main/Art/thumbnail/GaiaHAlfine.png?raw=true",
+        "largeImage": "https://github.com/GaiaAlfine/Images/blob/main/Art/largeImage/GaiaHAlfine.png?raw=true",
+        "description": "This Nebula painting explores the beauty of cosmic formations.",
+        "date": "2023-12-01",
+        "tags": ["cosmic", "nebula", "painting"]
+    },
+    {
+        "id": "6",
+        "title": "Nebula Painting",
+        "thumbnail": "https://github.com/GaiaAlfine/Images/blob/main/Art/thumbnail/GaiaHAlfine.png?raw=true",
+        "largeImage": "https://github.com/GaiaAlfine/Images/blob/main/Art/largeImage/GaiaHAlfine.png?raw=true",
+        "description": "This Nebula painting explores the beauty of cosmic formations.",
+        "date": "2023-12-01",
+        "tags": ["cosmic", "nebula", "painting"]
+    },
+    {
+        "id": "7",
+        "title": "Nebula Painting",
+        "thumbnail": "https://github.com/GaiaAlfine/Images/blob/main/Art/thumbnail/GaiaHAlfine.png?raw=true",
+        "largeImage": "https://github.com/GaiaAlfine/Images/blob/main/Art/largeImage/GaiaHAlfine.png?raw=true",
+        "description": "This Nebula painting explores the beauty of cosmic formations.",
+        "date": "2023-12-01",
+        "tags": ["cosmic", "painting"]
+    },
+    {
+        "id": "8",
+        "title": "Nebula Painting",
+        "thumbnail": "https://github.com/GaiaAlfine/Images/blob/main/Art/thumbnail/GaiaHAlfine.png?raw=true",
+        "largeImage": "https://github.com/GaiaAlfine/Images/blob/main/Art/largeImage/GaiaHAlfine.png?raw=true",
+        "description": "This Nebula painting explores the beauty of cosmic formations.",
+        "date": "2023-12-01",
+        "tags": ["cosmic", "nebula"]
+    },
+    {
+        "id": "9",
+        "title": "Nebula Painting",
+        "thumbnail": "https://github.com/GaiaAlfine/Images/blob/main/Art/thumbnail/GaiaHAlfine.png?raw=true",
+        "largeImage": "https://github.com/GaiaAlfine/Images/blob/main/Art/largeImage/GaiaHAlfine.png?raw=true",
+        "description": "This Nebula painting explores the beauty of cosmic formations.",
+        "date": "2023-12-01",
+        "tags": ["cosmic", "nebula", "painting"]
+    }
+  ]
+  
